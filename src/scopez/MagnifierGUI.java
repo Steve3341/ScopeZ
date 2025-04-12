@@ -413,6 +413,10 @@ public class MagnifierGUI extends JFrame implements NativeKeyListener, NativeMou
             tfZoomMultiplierHotKey.setText(NativeKeyEvent.getKeyText(zoomHotKeyCode));
             return;
         }
+        if (code == NativeKeyEvent.VC_INSERT) {
+            setVisible(!this.isVisible());
+            return;
+        }
         if (!hotKeyIsMouse && code == hotKeyCode) {
             if (rbToggle.isSelected()) {
                 if (windowVisible) {
