@@ -41,7 +41,7 @@
 
 ### Setup
 1. **Run the Application**
-   - Double-click on the executable EXE/JAR or launch via command line:
+   - Double-click on the executable JAR or launch via command line:
    ```
    java -jar ScopeZ.jar
    ```
