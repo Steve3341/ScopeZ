@@ -47,16 +47,17 @@
    ```
 
 2. **Configure Magnifier**
+   - INSERT key for toggle ui
    - Adjust size, shape, FPS, offsets, and zoom settings through the intuitive GUI.
 
-3. **Set Your Hotkeys**
+4. **Set Your Hotkeys**
    - Click the hotkey fields to define your toggle or hold keys.
    - Supports both keyboard and mouse inputs.
 
-4. **Save and Apply Settings**
+5. **Save and Apply Settings**
    - Click **"Apply Settings"** to save preferences.
 
-5. **Use in Game**
+6. **Use in Game**
    - Press your hotkey to activate or deactivate magnification.
 
 ## How to Build
